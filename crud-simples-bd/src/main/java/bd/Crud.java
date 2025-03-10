@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Crud {
     static final String DB_URL = "jdbc:mysql://localhost:3306/crud";
     static final String USER = "root";
-    static final String PASS = "151223";
+    static final String PASS = "Nave31@03";
     static Connection conn = null;
     static Scanner scanner = new Scanner(System.in);
 
